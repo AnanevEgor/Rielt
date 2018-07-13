@@ -16,14 +16,16 @@ DIRECTORY STRUCTURE
 
 
 
-REQUIREMENTS
-------------
 
 Versions for works:
+
 PHP 5.6
+
 MySQL 5.5
+
 Apache 2.4
 
 Name project "RielT"
+
 Name database mysql "rieltfirm"
 
